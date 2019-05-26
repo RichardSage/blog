@@ -4,7 +4,7 @@ title: How i made this blog
 author: richard
 categories:
 - Blog
-image: assets/images/home.jpg
+image: ''
 tags: featured
 
 ---
