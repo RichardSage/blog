@@ -14,9 +14,12 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: text
-  name: image
+- name: image
+  type: file
+  config:
+    maxSize: 250
   label: image
+  description: upload a main image
 - type: text
   name: tags
   label: tags
