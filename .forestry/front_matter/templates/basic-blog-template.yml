@@ -25,4 +25,5 @@ fields:
   label: tags
 pages:
 - _posts/how-i-created-a-jekyll-static-site-with-aws-s3-cloudfront-ssl-and-forestry-io.md
+- _posts/tech-recruitment-is-shite-and-something-needs-to-change-1.md
 - _posts/tech-recruitment-is-shite-and-something-needs-to-change.md
